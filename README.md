@@ -1,65 +1,62 @@
-# Leetocde-Team-Study-Materials
-A collection of resources, notes, and projects for our team to study together."
-LeetCode-Study-Group/
+Week 1: Arrays and Hashing
+Two Sum
+Contains Duplicate
+Maximize Stock Profits (Best Time to Buy and Sell Stock)
+Check if Anagram (Valid Anagram)
+Balanced Parentheses (Valid Parentheses)
+Find Maximum Subarray Sum (Maximum Subarray)
+Array Product Without Self (Product of Array Except Self)
+Three Number Sum (3Sum)
+Merge Overlapping Intervals (Merge Intervals)
+Group Words by Anagrams (Group Anagrams)
 
-├── Week_1_Arrays_and_Hashing/
-│   ├── Two_Sum.md
-│   ├── Contains_Duplicate.md
-│   ├── Maximize_Stock_Profits.md
-│   ├── Check_If_Anagram.md
-│   ├── Balanced_Parentheses.md
-│   ├── Find_Maximum_Subarray_Sum.md
-│   ├── Array_Product_Without_Self.md
-│   ├── Three_Number_Sum.md
-│   ├── Merge_Overlapping_Intervals.md
-│   ├── Group_Words_By_Anagrams.md
+Week 2: Linked Lists and Strings
+Reverse a Linked List
+Detect a Cycle in a Linked List
+Max Water Between Bars (Container With Most Water)
+Find Minimum in Rotated Array (Find Minimum in Rotated Sorted Array)
+Replace Characters for Longest String (Longest Repeating Character Replacement)
+Longest Substring Without Repeated Characters
+Count Number of Islands
+Remove Node From End of List (Remove Nth Node From End Of List)
+Count Palindromic Substrings
+Find Water Flow to Oceans (Pacific Atlantic Water Flow)
+Find Smallest Window Containing Substring (Minimum Window Substring)
 
-├── Week_2_Linked_Lists_and_Strings/
-│   ├── Reverse_A_Linked_List.md
-│   ├── Detect_A_Cycle.md
-│   ├── Max_Water_Between_Bars.md
-│   ├── Find_Minimum_in_Rotated_Array.md
-│   ├── Replace_Characters_for_Longest_String.md
-│   ├── Longest_Substring_Without_Repeated_Characters.md
-│   ├── Count_Number_of_Islands.md
-│   ├── Remove_Node_From_End_of_List.md
-│   ├── Count_Palindromic_Substrings.md
-│   ├── Find_Water_Flow_to_Oceans.md
-│   ├── Find_Smallest_Window_Containing_Substring.md
+Week 3: Trees and Graphs
+Invert a Binary Tree (Flip Binary Tree)
+Validate Binary Search Tree Structure
+Remove Overlapping Intervals (Non-overlapping Intervals)
+Rebuild Binary Tree (Construct Binary Tree from Preorder and Inorder Traversal)
+Most Frequent Elements (Top K Frequent Elements)
+Clone a Graph Structure
+Plan Course Schedule
+Serialize and Deserialize a Binary Tree
+Find Maximum Path Sum in Binary Tree
+Check for Path Sum in Tree (Path Sum)
 
-├── Week_3_Trees_and_Graphs/
-│   ├── Invert_A_Binary_Tree.md
-│   ├── Validate_Binary_Search_Tree.md
-│   ├── Remove_Overlapping_Intervals.md
-│   ├── Rebuild_Binary_Tree.md
-│   ├── Most_Frequent_Elements.md
-│   ├── Clone_A_Graph.md
-│   ├── Plan_Course_Schedule.md
-│   ├── Serialize_and_Deserialize_Binary_Tree.md
-│   ├── Find_Maximum_Path_Sum.md
-│   ├── Check_for_Path_Sum.md
 
-├── Week_4_Advanced_Trees_and_Graphs/
-│   ├── Check_if_Tree_Contains_Subtree.md
-│   ├── Find_Lowest_Common_Ancestor.md
-│   ├── Create_and_Query_a_Trie.md
-│   ├── Add_and_Search_Words_in_Trie.md
-│   ├── Find_Kth_Smallest_Element_in_BST.md
-│   ├── Merge_Multiple_Sorted_Linked_Lists.md
-│   ├── Find_Median_from_Data_Stream.md
-│   ├── Insert_and_Merge_Intervals.md
-│   ├── Longest_Consecutive_Sequence_in_Array.md
-│   ├── Search_Words_in_Grid.md
+Week 4: Advanced Tree and Graph Algorithms
+Check if Tree Contains Subtree (Subtree of Another Tree)
+Find Lowest Common Ancestor in BST
+Create and Query a Trie (Prefix Tree)
+Add and Search Words in Trie
+Find Kth Smallest Element in a BST
+Merge Multiple Sorted Linked Lists
+Find Median from Data Stream
+Insert and Merge Intervals (Insert Interval)
+Longest Consecutive Sequence in Array
+Search Words in Grid (Word Search II)
 
-├── Week_5_Dynamic_Programming/
-│   ├── Count_Ways_to_Climb_Stairs.md
-│   ├── Find_Minimum_Coins_for_Change.md
-│   ├── Longest_Increasing_Subsequence.md
-│   ├── Sum_Combinations_to_Target.md
-│   ├── Maximize_House_Robbery_Amount.md
-│   ├── Maximize_Robbery_in_Circular_Street.md
-│   ├── Count_Ways_to_Decode_String.md
-│   ├── Count_Unique_Paths_in_Grid.md
-│   ├── Can_You_Jump_to_Last_Index.md
-│   ├── Break_String_into_Dictionary_Words.md
 
+Week 5: Dynamic Programming
+Count Ways to Climb Stairs (Climbing Stairs)
+Find Minimum Coins for Change (Coin Change)
+Longest Increasing Subsequence in Array
+Sum Combinations to Target (Combination Sum)
+Maximize House Robbery Amount (House Robber)
+Maximize Robbery in Circular Street (House Robber II)
+Count Ways to Decode String (Decode Ways)
+Count Unique Paths in Grid (Unique Paths)
+Can You Jump to Last Index? (Jump Game)
+Break String into Dictionary Words (Word Break)
