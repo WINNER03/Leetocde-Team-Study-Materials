@@ -1,62 +1,32 @@
-Week 1: Arrays and Hashing
-Two Sum
-Contains Duplicate
-Maximize Stock Profits (Best Time to Buy and Sell Stock)
-Check if Anagram (Valid Anagram)
-Balanced Parentheses (Valid Parentheses)
-Find Maximum Subarray Sum (Maximum Subarray)
-Array Product Without Self (Product of Array Except Self)
-Three Number Sum (3Sum)
-Merge Overlapping Intervals (Merge Intervals)
-Group Words by Anagrams (Group Anagrams)
+# LeetCode Study Group
 
-Week 2: Linked Lists and Strings
-Reverse a Linked List
-Detect a Cycle in a Linked List
-Max Water Between Bars (Container With Most Water)
-Find Minimum in Rotated Array (Find Minimum in Rotated Sorted Array)
-Replace Characters for Longest String (Longest Repeating Character Replacement)
-Longest Substring Without Repeated Characters
-Count Number of Islands
-Remove Node From End of List (Remove Nth Node From End Of List)
-Count Palindromic Substrings
-Find Water Flow to Oceans (Pacific Atlantic Water Flow)
-Find Smallest Window Containing Substring (Minimum Window Substring)
+Welcome to the **LeetCode Study Group Repository**! This repository is organized into weekly topics with a curated list of problems to master data structures and algorithms.
 
-Week 3: Trees and Graphs
-Invert a Binary Tree (Flip Binary Tree)
-Validate Binary Search Tree Structure
-Remove Overlapping Intervals (Non-overlapping Intervals)
-Rebuild Binary Tree (Construct Binary Tree from Preorder and Inorder Traversal)
-Most Frequent Elements (Top K Frequent Elements)
-Clone a Graph Structure
-Plan Course Schedule
-Serialize and Deserialize a Binary Tree
-Find Maximum Path Sum in Binary Tree
-Check for Path Sum in Tree (Path Sum)
+## Schedule Overview
 
+- **Week 1**: Arrays and Hashing
+- **Week 2**: Linked Lists and Strings
+- **Week 3**: Trees and Graphs
+- **Week 4**: Advanced Tree and Graph Algorithms
+- **Week 5**: Dynamic Programming
 
-Week 4: Advanced Tree and Graph Algorithms
-Check if Tree Contains Subtree (Subtree of Another Tree)
-Find Lowest Common Ancestor in BST
-Create and Query a Trie (Prefix Tree)
-Add and Search Words in Trie
-Find Kth Smallest Element in a BST
-Merge Multiple Sorted Linked Lists
-Find Median from Data Stream
-Insert and Merge Intervals (Insert Interval)
-Longest Consecutive Sequence in Array
-Search Words in Grid (Word Search II)
+Each problem has:
+1. Problem explanation.
+2. A sample solution in Python/JavaScript/Java (team's choice).
+3. Step-by-step breakdown of the algorithm.
+4. Time and space complexity analysis.
 
+## How to Contribute
 
-Week 5: Dynamic Programming
-Count Ways to Climb Stairs (Climbing Stairs)
-Find Minimum Coins for Change (Coin Change)
-Longest Increasing Subsequence in Array
-Sum Combinations to Target (Combination Sum)
-Maximize House Robbery Amount (House Robber)
-Maximize Robbery in Circular Street (House Robber II)
-Count Ways to Decode String (Decode Ways)
-Count Unique Paths in Grid (Unique Paths)
-Can You Jump to Last Index? (Jump Game)
-Break String into Dictionary Words (Word Break)
+1. Fork the repository.
+2. Clone your forked repository.
+3. Add your solution under the respective week and problem.
+4. Create a pull request with your changes.
+
+## Resources
+
+- [LeetCode](https://leetcode.com)
+- [GeeksforGeeks](https://www.geeksforgeeks.org)
+- [Cracking the Coding Interview](https://www.amazon.com/dp/0984782850)
+
+Happy coding! 🚀
